@@ -1,0 +1,271 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeArchitecturePreference = x86_64;
+		activeBuildConfigurationName = Release;
+		activeTarget = 8D5B49AC048680CD000E48DA /* NotifyMyAndroid */;
+		addToTargets = (
+			8D5B49AC048680CD000E48DA /* NotifyMyAndroid */,
+		);
+		codeSenseManager = B90994CB1367E4D8006C0311 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					901,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					861,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325575866;
+			PBXWorkspaceStateSaveDate = 325575866;
+		};
+		perUserProjectItems = {
+			B90995091368DE28006C0311 /* PBXTextBookmark */ = B90995091368DE28006C0311 /* PBXTextBookmark */;
+			B90995311368DFEF006C0311 /* PBXTextBookmark */ = B90995311368DFEF006C0311 /* PBXTextBookmark */;
+			B90995551368E856006C0311 /* PlistBookmark */ = B90995551368E856006C0311 /* PlistBookmark */;
+			B90995581368E856006C0311 /* PBXTextBookmark */ = B90995581368E856006C0311 /* PBXTextBookmark */;
+			B90995F01369057D006C0311 /* PBXTextBookmark */ = B90995F01369057D006C0311 /* PBXTextBookmark */;
+			B90995F11369057D006C0311 /* PBXTextBookmark */ = B90995F11369057D006C0311 /* PBXTextBookmark */;
+			B90995F21369057D006C0311 /* PBXTextBookmark */ = B90995F21369057D006C0311 /* PBXTextBookmark */;
+			B90995F31369057D006C0311 /* PBXTextBookmark */ = B90995F31369057D006C0311 /* PBXTextBookmark */;
+			B90995F41369057D006C0311 /* PBXTextBookmark */ = B90995F41369057D006C0311 /* PBXTextBookmark */;
+			B90995F51369057D006C0311 /* PBXTextBookmark */ = B90995F51369057D006C0311 /* PBXTextBookmark */;
+			B90995F71369075E006C0311 /* PBXTextBookmark */ = B90995F71369075E006C0311 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B90994CA1367E4D8006C0311 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D5B49AC048680CD000E48DA /* NotifyMyAndroid */ = {
+		activeExec = 0;
+	};
+	932406321077A429008EEF09 /* en */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 449}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 204}";
+		};
+	};
+	932407FB1077AAF9008EEF09 /* GrowlDisplayWindowController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 2678}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1655}";
+		};
+	};
+	93596ACC0A84222E001C6860 /* GrowlNMADisplay.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 461}}";
+			sepNavSelRange = "{62, 0}";
+			sepNavVisRange = "{0, 288}";
+			sepNavWindowFrame = "{{59, 615}, {750, 558}}";
+		};
+	};
+	93596ACD0A84222E001C6860 /* GrowlNMADisplay.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 962}}";
+			sepNavSelRange = "{686, 0}";
+			sepNavVisRange = "{0, 705}";
+		};
+	};
+	93596ACE0A84222E001C6860 /* GrowlNMAPrefs.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 461}}";
+			sepNavSelRange = "{185, 0}";
+			sepNavVisRange = "{0, 577}";
+			sepNavWindowFrame = "{{128, 519}, {1155, 591}}";
+		};
+	};
+	93596ACF0A84222E001C6860 /* GrowlNMAPrefs.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 936}}";
+			sepNavSelRange = "{122, 0}";
+			sepNavVisRange = "{0, 637}";
+			sepNavWindowFrame = "{{82, 594}, {750, 558}}";
+		};
+	};
+	93596AD00A84222E001C6860 /* GrowlNMAWindowController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 461}}";
+			sepNavSelRange = "{70, 0}";
+			sepNavVisRange = "{0, 247}";
+		};
+	};
+	93596AD10A84222E001C6860 /* GrowlNMAWindowController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {990, 1859}}";
+			sepNavSelRange = "{1975, 0}";
+			sepNavVisRange = "{2112, 736}";
+			sepNavWindowFrame = "{{105, 540}, {1155, 591}}";
+		};
+	};
+	B90994CA1367E4D8006C0311 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B90994CB1367E4D8006C0311 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B90995091368DE28006C0311 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 932406321077A429008EEF09 /* en */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 204;
+		vrLoc = 0;
+	};
+	B90995131368DE58006C0311 /* NMA_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 472}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 144}";
+		};
+	};
+	B90995311368DFEF006C0311 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B90995131368DE58006C0311 /* NMA_Prefix.pch */;
+		name = "NMA_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 144;
+		vrLoc = 0;
+	};
+	B90995551368E856006C0311 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 932406341077A429008EEF09 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/resources/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	B90995581368E856006C0311 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 932407FB1077AAF9008EEF09 /* GrowlDisplayWindowController.h */;
+		name = "GrowlDisplayWindowController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1655;
+		vrLoc = 0;
+	};
+	B90995F01369057D006C0311 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 93596ACC0A84222E001C6860 /* GrowlNMADisplay.h */;
+		name = "GrowlNMADisplay.h: 6";
+		rLen = 0;
+		rLoc = 62;
+		rType = 0;
+		vrLen = 288;
+		vrLoc = 0;
+	};
+	B90995F11369057D006C0311 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 93596ACD0A84222E001C6860 /* GrowlNMADisplay.m */;
+		name = "GrowlNMADisplay.m: 33";
+		rLen = 0;
+		rLoc = 686;
+		rType = 0;
+		vrLen = 705;
+		vrLoc = 0;
+	};
+	B90995F21369057D006C0311 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 93596ACE0A84222E001C6860 /* GrowlNMAPrefs.h */;
+		name = "GrowlNMAPrefs.h: 13";
+		rLen = 0;
+		rLoc = 185;
+		rType = 0;
+		vrLen = 577;
+		vrLoc = 0;
+	};
+	B90995F31369057D006C0311 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 93596ACF0A84222E001C6860 /* GrowlNMAPrefs.m */;
+		name = "GrowlNMAPrefs.m: 11";
+		rLen = 0;
+		rLoc = 122;
+		rType = 0;
+		vrLen = 637;
+		vrLoc = 0;
+	};
+	B90995F41369057D006C0311 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 93596AD00A84222E001C6860 /* GrowlNMAWindowController.h */;
+		name = "GrowlNMAWindowController.h: 5";
+		rLen = 0;
+		rLoc = 70;
+		rType = 0;
+		vrLen = 247;
+		vrLoc = 0;
+	};
+	B90995F51369057D006C0311 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 93596AD10A84222E001C6860 /* GrowlNMAWindowController.m */;
+		name = "GrowlNMAWindowController.m: 4";
+		rLen = 0;
+		rLoc = 69;
+		rType = 0;
+		vrLen = 694;
+		vrLoc = 0;
+	};
+	B90995F71369075E006C0311 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 93596AD10A84222E001C6860 /* GrowlNMAWindowController.m */;
+		name = "GrowlNMAWindowController.m: 4";
+		rLen = 0;
+		rLoc = 69;
+		rType = 0;
+		vrLen = 694;
+		vrLoc = 0;
+	};
+}

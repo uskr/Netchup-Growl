@@ -1,16 +1,7 @@
 
-=======================
-Growl Plugin for Notifo
-=======================
-
------------
-Information
------------
-
-- Author: SAEKI Yoshiyasu
-- Copyright: (c) 2010 SAEKI Yoshiyasu
-- License: MIT-style license <http://www.opensource.org/licenses/mit-license.php>
-- Version: 0.2
+================================
+Growl Plugin for NotifyMyAndroid
+================================
 
 --------
 Overview
@@ -19,22 +10,14 @@ Overview
 About
 =====
 
-This plugin is a Growl plugin for sending messages to Notifo.
-
-Getting started
-===============
-
-http://bitbucket.org/laclefyoshi/growl-notifo/wiki/Home
+This plugin is a Growl plugin for sending messages to Android devices through NotifyMyAndroid public API.
 
 -------
 History
 -------
 
-* 2010-11-19: Version 0.1
+* 2011-04-27: Version 1.0.0
 
-  - release
-
-* 2010-11-21: Version 0.2
-
-  - add applicationName in Label
+  - Initial release
+  - Basic Functionalities
 

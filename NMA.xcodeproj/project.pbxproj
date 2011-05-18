@@ -61,6 +61,7 @@
 		B90994F71367E98F006C0311 /* nma.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = nma.icns; sourceTree = "<group>"; };
 		B90994FC1367EAD4006C0311 /* promo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = promo2.png; sourceTree = "<group>"; };
 		B90995131368DE58006C0311 /* NMA_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NMA_Prefix.pch; sourceTree = "<group>"; };
+		B9BF4D491382185D00E8981A /* GrowlPluginController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GrowlPluginController.h; sourceTree = "<group>"; };
 		D2F7E65807B2D6F200F64583 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
@@ -157,6 +158,7 @@
 				932407FE1077AB18008EEF09 /* GrowlPositionController.h */,
 				932407FF1077AB28008EEF09 /* GrowlDefines.h */,
 				932408001077AB28008EEF09 /* GrowlDefinesInternal.h */,
+				B9BF4D491382185D00E8981A /* GrowlPluginController.h */,
 				932408031077AB5F008EEF09 /* GrowlAbstractSingletonObject.h */,
 				932408341077ABA2008EEF09 /* GrowlPositioningDefines.h */,
 				932408371077ABB5008EEF09 /* NSWindow+Transforms.h */,

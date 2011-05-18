@@ -1,39 +1,39 @@
 TNotifyMyAndroid
 v7
 r0
-t325649756.353165
+t327299192.158008
 cCheck dependencies
-cProcessInfoPlistFile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/NotifyMyAndroid.growlView/Contents/Info.plist resources/Info.plist
-cCompileXIB /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/resources/en.lproj/GrowlNMAPrefs.xib
-cCopyStringsFile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/NotifyMyAndroid.growlView/Contents/Resources/en.lproj/InfoPlist.strings resources/en.lproj/InfoPlist.strings
+cProcessInfoPlistFile /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Info.plist resources/Info.plist
+cCompileXIB /Users/adriano/workspace/NMAGrowl/resources/en.lproj/GrowlNMAPrefs.xib
+cCopyStringsFile /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Resources/en.lproj/InfoPlist.strings resources/en.lproj/InfoPlist.strings
 cCpResource build/Debug/NotifyMyAndroid.growlView/Contents/Resources/nma.icns nma.icns
 cCpResource build/Debug/NotifyMyAndroid.growlView/Contents/Resources/promo2.png promo2.png
-cProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-bclktvwmijwqnrdlfqoxkfbsurjk/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-gzydbynljyvworesvodlnvxbtcqw/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
-cProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-dhuhplygaocarvamiijrpoluailo/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-bbgvpsvmnsilmqcgesquidcobpnk/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
-cProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-bzakbdbczsgetcaabwllnxwgnnss/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
-cProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-dhxzsxeozdmmrpditzqhlfvdjvoi/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal ppc c com.apple.compilers.gcc.4_2
-cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMADisplay.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMADisplay.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAPrefs.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAPrefs.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAWindowController.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAWindowController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/CFDictionaryAdditions.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/CFDictionaryAdditions.c normal x86_64 c com.apple.compilers.gcc.4_2
-cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlImageAdditions.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/GrowlImageAdditions.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/NotifyMyAndroid normal x86_64
-cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMADisplay.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMADisplay.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAPrefs.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAPrefs.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAWindowController.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/CFDictionaryAdditions.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/CFDictionaryAdditions.c normal i386 c com.apple.compilers.gcc.4_2
-cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlImageAdditions.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/GrowlImageAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/NotifyMyAndroid normal i386
-cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMADisplay.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMADisplay.m normal ppc objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAPrefs.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAPrefs.m normal ppc objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAWindowController.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAWindowController.m normal ppc objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/CFDictionaryAdditions.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/CFDictionaryAdditions.c normal ppc c com.apple.compilers.gcc.4_2
-cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlImageAdditions.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/GrowlImageAdditions.m normal ppc objective-c com.apple.compilers.gcc.4_2
-cLd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/NotifyMyAndroid normal ppc
-cCreateUniversalBinary /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/NotifyMyAndroid.growlView/Contents/MacOS/NotifyMyAndroid normal "x86_64 i386 ppc"
-cTouch /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/NotifyMyAndroid.growlView
+cProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-cwrxgewmxzbxrabsaadohjihbbgh/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-hgzuszffeosqioabbjhqkunxlkvt/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-fjmnvvbnehasbpdmycngqvwercxa/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-akegkinctmvtndchjccdlsndqqbg/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-eszzbpvxjcrrfdahqmkjjnfssaah/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-gvsbcfsbuxolbqbcjgzpiacjnyib/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal ppc c com.apple.compilers.gcc.4_2
+cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMADisplay.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAPrefs.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAWindowController.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/CFDictionaryAdditions.o /Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlImageAdditions.o /Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMADisplay.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAPrefs.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAWindowController.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/CFDictionaryAdditions.o /Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlImageAdditions.o /Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMADisplay.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAPrefs.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAWindowController.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/CFDictionaryAdditions.o /Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c normal ppc c com.apple.compilers.gcc.4_2
+cCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlImageAdditions.o /Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/NotifyMyAndroid normal x86_64
+cLd /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/NotifyMyAndroid normal i386
+cLd /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/NotifyMyAndroid normal ppc
+cCreateUniversalBinary /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/MacOS/NotifyMyAndroid normal "x86_64 i386 ppc"
+cTouch /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView
 
 N/Developer/SDKs/MacOSX10.5.sdk
 c000000004C238B9B00000000000000EE
@@ -518,6 +518,296 @@ t1293692732
 s144
 i<Cocoa/Cocoa.h>
 
+N/Users/adriano/workspace/NMAGrowl/GrowlPluginController.h
+c000000004C3647330000000000003527
+t1278625587
+s13607
+i<Foundation/Foundation.h>
+i"GrowlAbstractSingletonObject.h"
+
+N/Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.h
+c000000004DB7AEDA0000000000000120
+t1303883482
+s288
+i<Cocoa/Cocoa.h>
+i<GrowlDisplayPlugin.h>
+
+N/Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m
+c000000004DB7AED20000000000000628
+t1303883474
+s1576
+i"GrowlNMADisplay.h"
+i"GrowlNMAWindowController.h"
+i"GrowlNMAPrefs.h"
+i"GrowlApplicationNotification.h"
+i<GrowlDefinesInternal.h>
+i<GrowlDefines.h>
+
+N/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.h
+c000000004DD1F8AC0000000000000826
+t1305606316
+s2086
+i<PreferencePanes/PreferencePanes.h>
+i"GrowlDefinesInternal.h"
+i"GrowlPlugin.h"
+i"GrowlPluginController.h"
+
+N/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m
+c000000004DD1F8EC000000000000192F
+t1305606380
+s6447
+i"GrowlNMAPrefs.h"
+i"GrowlDefinesInternal.h"
+
+N/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.h
+c000000004DB7AEE700000000000000F7
+t1303883495
+s247
+i"GrowlDisplayWindowController.h"
+
+N/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m
+c000000004DB8B8BB0000000000001092
+t1303951547
+s4242
+i"GrowlNMAWindowController.h"
+i"GrowlNMAPrefs.h"
+i"GrowlDefinesInternal.h"
+i"GrowlDefines.h"
+i"GrowlApplicationNotification.h"
+
+N/Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView
+t1305606392
+s102
+
+N/Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Info.plist
+t1305606388
+s1026
+
+N/Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/MacOS/NotifyMyAndroid
+t1305606392
+s138152
+
+N/Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Resources/en.lproj/GrowlNMAPrefs.nib
+t1305606389
+s16482
+
+N/Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Resources/en.lproj/InfoPlist.strings
+t1305606388
+s204
+
+N/Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Resources/nma.icns
+t1305606388
+s135365
+
+N/Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Resources/promo2.png
+t1305606388
+s278761
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/CFDictionaryAdditions.o
+t1305606391
+s5196
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlImageAdditions.o
+t1305606392
+s14292
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMADisplay.o
+t1305606391
+s27548
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAPrefs.o
+t1305606391
+s44712
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAWindowController.o
+t1305606391
+s24772
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/NotifyMyAndroid
+t1305606392
+s41644
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/NotifyMyAndroid.LinkFileList
+c000000004DD1F8F40000000000000255
+t1305606388
+s597
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/CFDictionaryAdditions.o
+t1305606392
+s5484
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlImageAdditions.o
+t1305606392
+s15100
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMADisplay.o
+t1305606392
+s28356
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAPrefs.o
+t1305606392
+s49380
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAWindowController.o
+t1305606392
+s26144
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/NotifyMyAndroid
+t1305606392
+s39848
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/NotifyMyAndroid.LinkFileList
+c000000004DD1F8F40000000000000250
+t1305606388
+s592
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/CFDictionaryAdditions.o
+t1305606391
+s6068
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlImageAdditions.o
+t1305606391
+s17360
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMADisplay.o
+t1305606391
+s31984
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAPrefs.o
+t1305606391
+s55664
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAWindowController.o
+t1305606391
+s29164
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/NotifyMyAndroid
+t1305606392
+s46440
+
+N/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/NotifyMyAndroid.LinkFileList
+c000000004DD1F8F4000000000000025F
+t1305606388
+s607
+
+N/Users/adriano/workspace/NMAGrowl/nma.icns
+c000000004DB7B1E000000000000210C5
+t1303884256
+s135365
+
+N/Users/adriano/workspace/NMAGrowl/promo2.png
+c000000004DB7AE1600000000000440E9
+t1303883286
+s278761
+
+N/Users/adriano/workspace/NMAGrowl/resources/en.lproj/GrowlNMAPrefs.xib
+c000000004DD1F8C90000000000016FE7
+t1305606345
+s94183
+
+N/Users/adriano/workspace/NMAGrowl/resources/en.lproj/InfoPlist.strings
+c000000004D1C2F3C00000000000000CC
+t1293692732
+s204
+
+N/Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c
+c000000004D1C2F3C000000000000033A
+t1293692732
+s826
+i"CFDictionaryAdditions.h"
+
+N/Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.h
+c000000004D1C2F3C000000000000021F
+t1293692732
+s543
+i"CFGrowlDefines.h"
+
+N/Users/adriano/workspace/NMAGrowl/source/Growl/CFGrowlDefines.h
+c000000004D1C2F3C0000000000000437
+t1293692732
+s1079
+i<CoreFoundation/CoreFoundation.h>
+
+N/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlAbstractSingletonObject.h
+c000000004D1C2F3C000000000000081A
+t1293692732
+s2074
+i<Foundation/Foundation.h>
+
+N/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlApplicationNotification.h
+c000000004D1C2F3C00000000000008F0
+t1293692732
+s2288
+
+N/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlDefines.h
+c000000004D1C2F3C0000000000003D75
+t1293692732
+s15733
+
+N/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlDefinesInternal.h
+c000000004D1C2F3C00000000000049D3
+t1293692732
+s18899
+i<CoreFoundation/CoreFoundation.h>
+i<sys/types.h>
+i<unistd.h>
+
+N/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlDisplayPlugin.h
+c000000004D1C2F3C0000000000000AB9
+t1293692732
+s2745
+i<Cocoa/Cocoa.h>
+i"GrowlPlugin.h"
+
+N/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlDisplayWindowController.h
+c000000004D1C2F3C0000000000001FF0
+t1293692732
+s8176
+i<Cocoa/Cocoa.h>
+i"GrowlPositionController.h"
+i"GrowlDefinesInternal.h"
+
+N/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.h
+c000000004D1C2F3C0000000000000282
+t1293692732
+s642
+i<Cocoa/Cocoa.h>
+i"GrowlDefinesInternal.h"
+
+N/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m
+c000000004D1C2F3C0000000000000D74
+t1293692732
+s3444
+i"GrowlImageAdditions.h"
+
+N/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlPlugin.h
+c000000004D1C2F3C0000000000000AC9
+t1293692732
+s2761
+i<Cocoa/Cocoa.h>
+
+N/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlPositionController.h
+c000000004D1C2F3C00000000000015F1
+t1293692732
+s5617
+i"GrowlAbstractSingletonObject.h"
+i"GrowlPositioningDefines.h"
+
+N/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlPositioningDefines.h
+c000000004D1C2F3C00000000000008B0
+t1293692732
+s2224
+
+N/Users/adriano/workspace/NMAGrowl/source/NMA_Prefix.pch
+c000000004D1C2F3C0000000000000090
+t1293692732
+s144
+i<Cocoa/Cocoa.h>
+
+N/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-akegkinctmvtndchjccdlsndqqbg/NMA_Prefix.pch.gch
+t1305606389
+s2187632
+
 N/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-amrmejqexcsgntctlubizhwcjjxx/NMA_Prefix.pch.gch
 t2
 s0
@@ -542,6 +832,10 @@ N/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/Shared
 t2
 s0
 
+N/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-cwrxgewmxzbxrabsaadohjihbbgh/NMA_Prefix.pch.gch
+t1305606391
+s51110160
+
 N/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-dbkpfwsjgwmsnrhikpvwwpfxisrp/NMA_Prefix.pch.gch
 t2
 s0
@@ -558,12 +852,28 @@ N/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/Shared
 t2
 s0
 
+N/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-eszzbpvxjcrrfdahqmkjjnfssaah/NMA_Prefix.pch.gch
+t1305606391
+s50319568
+
+N/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-fjmnvvbnehasbpdmycngqvwercxa/NMA_Prefix.pch.gch
+t1305606391
+s54002064
+
 N/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-fyquwxxxhpvaypahlceygdeskogv/NMA_Prefix.pch.gch
 t2
 s0
 
+N/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-gvsbcfsbuxolbqbcjgzpiacjnyib/NMA_Prefix.pch.gch
+t1305606389
+s1950064
+
 N/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-gzydbynljyvworesvodlnvxbtcqw/NMA_Prefix.pch.gch
 t1303954884
+s2195824
+
+N/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-hgzuszffeosqioabbjhqkunxlkvt/NMA_Prefix.pch.gch
+t1305606389
 s2195824
 
 N/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-bbgvpsvmnsilmqcgesquidcobpnk/Sample_Prefix.pch.gch
@@ -597,7 +907,7 @@ s1026
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies325649756#325649756#0(0"0(0#1#0"8618852192#0"0#
+lSLF07#2@18"Check dependencies327299188#327299188#0(0"0(0#1#0"8647883360#0"0#
 
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/CFDictionaryAdditions.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/CFDictionaryAdditions.c normal i386 c com.apple.compilers.gcc.4_2
 s325647686.847262
@@ -612,6 +922,19 @@ xc
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@107"Compile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/CFDictionaryAdditions.c325647686#325647686#0(0"0(0#0#99"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/CFDictionaryAdditions.c8623657792#1333"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/i386 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-bbgvpsvmnsilmqcgesquidcobpnk/NMA_Prefix.pch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/CFDictionaryAdditions.c -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/CFDictionaryAdditions.o0#
 
+CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/CFDictionaryAdditions.o /Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c normal i386 c com.apple.compilers.gcc.4_2
+s327299191.791330
+e327299191.916170
+r1
+xCompileC
+xbuild/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/CFDictionaryAdditions.o
+x/Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c327299191#327299191#0(0"0(0#0#70"/Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c8649031008#1101"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/i386 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-akegkinctmvtndchjccdlsndqqbg/NMA_Prefix.pch -c /Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/CFDictionaryAdditions.o0#
+
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlImageAdditions.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/GrowlImageAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s325647686.886994
 e325647687.027303
@@ -624,6 +947,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@105"Compile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/GrowlImageAdditions.m325647686#325647687#0(0"0(0#0#97"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/GrowlImageAdditions.m8620303808#1349"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/i386 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-dhuhplygaocarvamiijrpoluailo/NMA_Prefix.pch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/GrowlImageAdditions.m -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlImageAdditions.o0#
+
+CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlImageAdditions.o /Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327299191.834887
+e327299192.062942
+r1
+xCompileC
+xbuild/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlImageAdditions.o
+x/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m327299191#327299192#0(0"0(0#0#68"/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m8648188256#1117"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/i386 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-fjmnvvbnehasbpdmycngqvwercxa/NMA_Prefix.pch -c /Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlImageAdditions.o0#
 
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMADisplay.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMADisplay.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s325647686.740063
@@ -638,6 +974,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@95"Compile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMADisplay.m325647686#325647686#0(0"0(0#0#87"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMADisplay.m8611331808#1335"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/i386 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-dhuhplygaocarvamiijrpoluailo/NMA_Prefix.pch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMADisplay.m -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMADisplay.o0#
 
+CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMADisplay.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327299191.612167
+e327299191.904179
+r1
+xCompileC
+xbuild/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMADisplay.o
+x/Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m327299191#327299191#0(0"0(0#0#58"/Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m8648066048#1103"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/i386 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-fjmnvvbnehasbpdmycngqvwercxa/NMA_Prefix.pch -c /Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMADisplay.o0#
+
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAPrefs.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAPrefs.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s325647686.740692
 e325647686.906098
@@ -651,6 +1000,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@93"Compile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAPrefs.m325647686#325647686#0(0"0(0#0#85"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAPrefs.m8599941632#1331"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/i386 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-dhuhplygaocarvamiijrpoluailo/NMA_Prefix.pch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAPrefs.m -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAPrefs.o0#
 
+CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAPrefs.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327299191.613050
+e327299191.916433
+r1
+xCompileC
+xbuild/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAPrefs.o
+x/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m327299191#327299191#0(0"0(0#0#56"/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m8647467648#1099"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/i386 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-fjmnvvbnehasbpdmycngqvwercxa/NMA_Prefix.pch -c /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAPrefs.o0#
+
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAWindowController.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s325647686.741358
 e325647686.918154
@@ -663,6 +1025,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@104"Compile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAWindowController.m325647686#325647686#0(0"0(0#0#96"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAWindowController.m8625200256#1353"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/i386 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-dhuhplygaocarvamiijrpoluailo/NMA_Prefix.pch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAWindowController.m -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAWindowController.o0#
+
+CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAWindowController.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327299191.613965
+e327299191.904430
+r1
+xCompileC
+xbuild/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAWindowController.o
+x/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m327299191#327299191#0(0"0(0#0#67"/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m8646829152#1121"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/i386 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-fjmnvvbnehasbpdmycngqvwercxa/NMA_Prefix.pch -c /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNMAWindowController.o0#
 
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/GrowlNotifoDisplay.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNotifoDisplay.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -686,6 +1061,19 @@ xc
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@107"Compile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/CFDictionaryAdditions.c325647686#325647687#0(0"0(0#0#99"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/CFDictionaryAdditions.c8617624352#1340"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/ppc -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-dhxzsxeozdmmrpditzqhlfvdjvoi/NMA_Prefix.pch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/CFDictionaryAdditions.c -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/CFDictionaryAdditions.o0#
 
+CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/CFDictionaryAdditions.o /Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c normal ppc c com.apple.compilers.gcc.4_2
+s327299191.906837
+e327299192.031363
+r1
+xCompileC
+xbuild/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/CFDictionaryAdditions.o
+x/Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c327299191#327299192#0(0"0(0#0#70"/Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c8625710368#1108"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/ppc -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-gvsbcfsbuxolbqbcjgzpiacjnyib/NMA_Prefix.pch -c /Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/CFDictionaryAdditions.o0#
+
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlImageAdditions.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/GrowlImageAdditions.m normal ppc objective-c com.apple.compilers.gcc.4_2
 s325647686.918541
 e325647687.052239
@@ -698,6 +1086,19 @@ xppc
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@105"Compile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/GrowlImageAdditions.m325647686#325647687#0(0"0(0#0#97"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/GrowlImageAdditions.m8612793760#1356"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/ppc -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-bzakbdbczsgetcaabwllnxwgnnss/NMA_Prefix.pch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/GrowlImageAdditions.m -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlImageAdditions.o0#
+
+CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlImageAdditions.o /Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s327299191.920821
+e327299192.098718
+r1
+xCompileC
+xbuild/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlImageAdditions.o
+x/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m327299191#327299192#0(0"0(0#0#68"/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m8649953312#1124"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/ppc -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-eszzbpvxjcrrfdahqmkjjnfssaah/NMA_Prefix.pch -c /Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlImageAdditions.o0#
 
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMADisplay.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMADisplay.m normal ppc objective-c com.apple.compilers.gcc.4_2
 s325647686.893753
@@ -712,6 +1113,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@95"Compile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMADisplay.m325647686#325647687#0(0"0(0#0#87"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMADisplay.m8620098720#1342"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/ppc -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-bzakbdbczsgetcaabwllnxwgnnss/NMA_Prefix.pch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMADisplay.m -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMADisplay.o0#
 
+CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMADisplay.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s327299191.868262
+e327299192.100501
+r1
+xCompileC
+xbuild/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMADisplay.o
+x/Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m327299191#327299192#0(0"0(0#0#58"/Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m8645134208#1110"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/ppc -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-eszzbpvxjcrrfdahqmkjjnfssaah/NMA_Prefix.pch -c /Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMADisplay.o0#
+
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAPrefs.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAPrefs.m normal ppc objective-c com.apple.compilers.gcc.4_2
 s325647686.896689
 e325647687.038238
@@ -725,6 +1139,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@93"Compile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAPrefs.m325647686#325647687#0(0"0(0#0#85"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAPrefs.m8619714880#1338"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/ppc -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-bzakbdbczsgetcaabwllnxwgnnss/NMA_Prefix.pch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAPrefs.m -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAPrefs.o0#
 
+CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAPrefs.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s327299191.883891
+e327299192.124554
+r1
+xCompileC
+xbuild/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAPrefs.o
+x/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m327299191#327299192#0(0"0(0#0#56"/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m8642069056#1106"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/ppc -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-eszzbpvxjcrrfdahqmkjjnfssaah/NMA_Prefix.pch -c /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAPrefs.o0#
+
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAWindowController.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAWindowController.m normal ppc objective-c com.apple.compilers.gcc.4_2
 s325647686.906238
 e325647687.049829
@@ -737,6 +1164,19 @@ xppc
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@104"Compile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAWindowController.m325647686#325647687#0(0"0(0#0#96"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAWindowController.m8619539200#1360"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/ppc -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-bzakbdbczsgetcaabwllnxwgnnss/NMA_Prefix.pch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAWindowController.m -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAWindowController.o0#
+
+CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAWindowController.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s327299191.904551
+e327299192.098378
+r1
+xCompileC
+xbuild/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAWindowController.o
+x/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m327299191#327299192#0(0"0(0#0#67"/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m8629289152#1128"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/ppc -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-eszzbpvxjcrrfdahqmkjjnfssaah/NMA_Prefix.pch -c /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNMAWindowController.o0#
 
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/GrowlNotifoDisplay.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNotifoDisplay.m normal ppc objective-c com.apple.compilers.gcc.4_2
 r0
@@ -760,6 +1200,19 @@ xc
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@107"Compile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/CFDictionaryAdditions.c325647686#325647686#0(0"0(0#0#99"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/CFDictionaryAdditions.c8617840992#1339"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/x86_64 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-gzydbynljyvworesvodlnvxbtcqw/NMA_Prefix.pch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/CFDictionaryAdditions.c -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/CFDictionaryAdditions.o0#
 
+CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/CFDictionaryAdditions.o /Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c normal x86_64 c com.apple.compilers.gcc.4_2
+s327299191.610366
+e327299191.791177
+r1
+xCompileC
+xbuild/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/CFDictionaryAdditions.o
+x/Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c327299191#327299191#0(0"0(0#0#70"/Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c8648203008#1107"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/x86_64 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-hgzuszffeosqioabbjhqkunxlkvt/NMA_Prefix.pch -c /Users/adriano/workspace/NMAGrowl/source/Growl/CFDictionaryAdditions.c -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/CFDictionaryAdditions.o0#
+
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlImageAdditions.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/GrowlImageAdditions.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s325647686.739355
 e325647686.886722
@@ -772,6 +1225,19 @@ xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@105"Compile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/GrowlImageAdditions.m325647686#325647686#0(0"0(0#0#97"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/GrowlImageAdditions.m8614428288#1355"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/x86_64 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-bclktvwmijwqnrdlfqoxkfbsurjk/NMA_Prefix.pch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/Growl/GrowlImageAdditions.m -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlImageAdditions.o0#
+
+CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlImageAdditions.o /Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327299191.611272
+e327299191.834740
+r1
+xCompileC
+xbuild/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlImageAdditions.o
+x/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m327299191#327299191#0(0"0(0#0#68"/Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m8648114400#1123"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/x86_64 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-cwrxgewmxzbxrabsaadohjihbbgh/NMA_Prefix.pch -c /Users/adriano/workspace/NMAGrowl/source/Growl/GrowlImageAdditions.m -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlImageAdditions.o0#
 
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMADisplay.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMADisplay.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s325647686.735290
@@ -786,6 +1252,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@95"Compile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMADisplay.m325647686#325647686#0(0"0(0#0#87"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMADisplay.m8620408160#1341"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/x86_64 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-bclktvwmijwqnrdlfqoxkfbsurjk/NMA_Prefix.pch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMADisplay.m -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMADisplay.o0#
 
+CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMADisplay.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327299191.607531
+e327299191.867250
+r1
+xCompileC
+xbuild/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMADisplay.o
+x/Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m327299191#327299191#0(0"0(0#0#58"/Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m8643225664#1109"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/x86_64 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-cwrxgewmxzbxrabsaadohjihbbgh/NMA_Prefix.pch -c /Users/adriano/workspace/NMAGrowl/Source/GrowlNMADisplay.m -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMADisplay.o0#
+
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAPrefs.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAPrefs.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s325647686.737439
 e325647686.896566
@@ -799,6 +1278,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@93"Compile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAPrefs.m325647686#325647686#0(0"0(0#0#85"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAPrefs.m8624868384#1337"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/x86_64 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-bclktvwmijwqnrdlfqoxkfbsurjk/NMA_Prefix.pch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAPrefs.m -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAPrefs.o0#
 
+CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAPrefs.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327299191.608576
+e327299192.041053
+r1
+xCompileC
+xbuild/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAPrefs.o
+x/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m327299191#327299192#0(0"0(0#0#56"/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m8648490208#1105"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/x86_64 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-cwrxgewmxzbxrabsaadohjihbbgh/NMA_Prefix.pch -c /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAPrefs.m -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAPrefs.o0#
+
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAWindowController.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAWindowController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s325647686.738077
 e325647686.916943
@@ -811,6 +1303,19 @@ xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@104"Compile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAWindowController.m325647686#325647686#0(0"0(0#0#96"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAWindowController.m8619891296#1359"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/x86_64 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-bclktvwmijwqnrdlfqoxkfbsurjk/NMA_Prefix.pch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNMAWindowController.m -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAWindowController.o0#
+
+CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAWindowController.o /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327299191.609465
+e327299191.883758
+r1
+xCompileC
+xbuild/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAWindowController.o
+x/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m327299191#327299191#0(0"0(0#0#67"/Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m8648345056#1127"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/x86_64 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -include /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-cwrxgewmxzbxrabsaadohjihbbgh/NMA_Prefix.pch -c /Users/adriano/workspace/NMAGrowl/Source/GrowlNMAWindowController.m -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNMAWindowController.o0#
 
 CCompileC build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/GrowlNotifoDisplay.o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/Source/GrowlNotifoDisplay.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -840,6 +1345,14 @@ lSLF07#2@50"CompileXIB resources/en.lproj/GrowlNotifoPrefs.xib325640022#32564002
 CCompileXIB /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/resources/ja.lproj/GrowlNotifoPrefs.xib
 r0
 
+CCompileXIB /Users/adriano/workspace/NMAGrowl/resources/en.lproj/GrowlNMAPrefs.xib
+s327299188.787922
+e327299189.052448
+r1
+xCompileXIB
+x/Users/adriano/workspace/NMAGrowl/resources/en.lproj/GrowlNMAPrefs.xib
+lSLF07#2@47"CompileXIB resources/en.lproj/GrowlNMAPrefs.xib327299188#327299189#0(0"0(0#0#70"/Users/adriano/workspace/NMAGrowl/resources/en.lproj/GrowlNMAPrefs.xib8640178112#373"    cd /Users/adriano/workspace/NMAGrowl    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Resources/en.lproj/GrowlNMAPrefs.nib /Users/adriano/workspace/NMAGrowl/resources/en.lproj/GrowlNMAPrefs.xib --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
 CCopyStringsFile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/Notifo.growlView/Contents/Resources/en.lproj/InfoPlist.strings resources/en.lproj/InfoPlist.strings
 r0
 
@@ -853,26 +1366,36 @@ xresources/en.lproj/InfoPlist.strings
 oresources/en.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
 lSLF07#2@41"Copy resources/en.lproj/InfoPlist.strings325649756#325649756#0(138"resources/en.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#99"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/resources/en.lproj/InfoPlist.strings8621227104#427"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 resources/en.lproj/InfoPlist.strings --outdir /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/NotifyMyAndroid.growlView/Contents/Resources/en.lproj0#
 
+CCopyStringsFile /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Resources/en.lproj/InfoPlist.strings resources/en.lproj/InfoPlist.strings
+s327299188.788738
+e327299188.816513
+r1
+xCopyStringsFile
+x/Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Resources/en.lproj/InfoPlist.strings
+xresources/en.lproj/InfoPlist.strings
+oresources/en.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@41"Copy resources/en.lproj/InfoPlist.strings327299188#327299188#0(138"resources/en.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#70"/Users/adriano/workspace/NMAGrowl/resources/en.lproj/InfoPlist.strings8631349056#369"    cd /Users/adriano/workspace/NMAGrowl    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 resources/en.lproj/InfoPlist.strings --outdir /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Resources/en.lproj0#
+
 CCpResource build/Debug/NotifyMyAndroid.growlView/Contents/Resources/NotifyMyAndroid.growlView build/Debug/NotifyMyAndroid.growlView
 r0
 
 CCpResource build/Debug/NotifyMyAndroid.growlView/Contents/Resources/nma.icns nma.icns
-s325649756.171002
-e325649756.175531
+s327299188.789530
+e327299188.794872
 r1
 xCpResource
 xbuild/Debug/NotifyMyAndroid.growlView/Contents/Resources/nma.icns
 xnma.icns
-lSLF07#2@13"Copy nma.icns325649756#325649756#0(0"0(0#0#71"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/nma.icns8620777568#424"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/nma.icns /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/NotifyMyAndroid.growlView/Contents/Resources0#
+lSLF07#2@13"Copy nma.icns327299188#327299188#0(0"0(0#0#42"/Users/adriano/workspace/NMAGrowl/nma.icns8624850816#337"    cd /Users/adriano/workspace/NMAGrowl    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/adriano/workspace/NMAGrowl/nma.icns /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Resources0#
 
 CCpResource build/Debug/NotifyMyAndroid.growlView/Contents/Resources/promo2.png promo2.png
-s325649756.171424
-e325649756.175328
+s327299188.790178
+e327299188.795575
 r1
 xCpResource
 xbuild/Debug/NotifyMyAndroid.growlView/Contents/Resources/promo2.png
 xpromo2.png
-lSLF07#2@15"Copy promo2.png325649756#325649756#0(0"0(0#0#73"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/promo2.png8620659712#426"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/promo2.png /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/NotifyMyAndroid.growlView/Contents/Resources0#
+lSLF07#2@15"Copy promo2.png327299188#327299188#0(0"0(0#0#44"/Users/adriano/workspace/NMAGrowl/promo2.png8632438976#339"    cd /Users/adriano/workspace/NMAGrowl    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/adriano/workspace/NMAGrowl/promo2.png /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Resources0#
 
 CCreateUniversalBinary /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/Notifo.growlView/Contents/MacOS/Notifo normal "x86_64 i386 ppc"
 r0
@@ -886,6 +1409,16 @@ x/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/Noti
 xnormal
 xx86_64 i386 ppc
 lSLF07#2@115"CreateUniversalBinary build/Debug/NotifyMyAndroid.growlView/Contents/MacOS/NotifyMyAndroid normal "x86_64 i386 ppc"325649756#325649756#0(0"0(0#0#78"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/x86_64 i386 ppc8611707296#666"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    /usr/bin/lipo -create /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/NotifyMyAndroid /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/NotifyMyAndroid /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/NotifyMyAndroid -output /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/NotifyMyAndroid.growlView/Contents/MacOS/NotifyMyAndroid0#
+
+CCreateUniversalBinary /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/MacOS/NotifyMyAndroid normal "x86_64 i386 ppc"
+s327299192.152569
+e327299192.155084
+r1
+xCreateUniversalBinary
+x/Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/MacOS/NotifyMyAndroid
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@115"CreateUniversalBinary build/Debug/NotifyMyAndroid.growlView/Contents/MacOS/NotifyMyAndroid normal "x86_64 i386 ppc"327299192#327299192#0(0"0(0#0#49"/Users/adriano/workspace/NMAGrowl/x86_64 i386 ppc8648332608#521"    cd /Users/adriano/workspace/NMAGrowl    /usr/bin/lipo -create /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/NotifyMyAndroid /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/NotifyMyAndroid /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/NotifyMyAndroid -output /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/MacOS/NotifyMyAndroid0#
 
 CLd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/Notifo normal i386
 r0
@@ -926,6 +1459,36 @@ xnormal
 xx86_64
 lSLF07#2@149"Link /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/NotifyMyAndroid325647686#325647686#0(0"0(0#0#0"8614848512#770"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -filelist /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/NotifyMyAndroid.LinkFileList -mmacosx-version-min=10.5 -undefined dynamic_lookup -framework Cocoa -framework PreferencePanes -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/NotifyMyAndroid0#
 
+CLd /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/NotifyMyAndroid normal i386
+s327299192.063054
+e327299192.105118
+r1
+xLd
+x/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/NotifyMyAndroid
+xnormal
+xi386
+lSLF07#2@118"Link /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/NotifyMyAndroid327299192#327299192#0(0"0(0#0#0"8625234304#619"    cd /Users/adriano/workspace/NMAGrowl    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/adriano/workspace/NMAGrowl/build/Debug -F/Users/adriano/workspace/NMAGrowl/build/Debug -filelist /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/NotifyMyAndroid.LinkFileList -mmacosx-version-min=10.5 -undefined dynamic_lookup -framework Cocoa -framework PreferencePanes -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/i386/NotifyMyAndroid0#
+
+CLd /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/NotifyMyAndroid normal ppc
+s327299192.124670
+e327299192.152487
+r1
+xLd
+x/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/NotifyMyAndroid
+xnormal
+xppc
+lSLF07#2@117"Link /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/NotifyMyAndroid327299192#327299192#0(0"0(0#0#0"8648615680#616"    cd /Users/adriano/workspace/NMAGrowl    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch ppc -bundle -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/adriano/workspace/NMAGrowl/build/Debug -F/Users/adriano/workspace/NMAGrowl/build/Debug -filelist /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/NotifyMyAndroid.LinkFileList -mmacosx-version-min=10.5 -undefined dynamic_lookup -framework Cocoa -framework PreferencePanes -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/ppc/NotifyMyAndroid0#
+
+CLd /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/NotifyMyAndroid normal x86_64
+s327299192.041170
+e327299192.090385
+r1
+xLd
+x/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/NotifyMyAndroid
+xnormal
+xx86_64
+lSLF07#2@120"Link /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/NotifyMyAndroid327299192#327299192#0(0"0(0#0#0"8647849824#625"    cd /Users/adriano/workspace/NMAGrowl    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/adriano/workspace/NMAGrowl/build/Debug -F/Users/adriano/workspace/NMAGrowl/build/Debug -filelist /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/NotifyMyAndroid.LinkFileList -mmacosx-version-min=10.5 -undefined dynamic_lookup -framework Cocoa -framework PreferencePanes -o /Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/Objects-normal/x86_64/NotifyMyAndroid0#
+
 CProcessInfoPlistFile /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/Notifo.growlView/Contents/Info.plist resources/Info.plist
 r0
 
@@ -937,6 +1500,28 @@ xProcessInfoPlistFile
 x/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/NotifyMyAndroid.growlView/Contents/Info.plist
 xresources/Info.plist
 lSLF07#2@28"Process resources/Info.plist325649756#325649756#0(0"0(0#0#83"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/resources/Info.plist8617759360#282"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    builtin-infoPlistUtility resources/Info.plist -expandbuildsettings -platform macosx -o /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/NotifyMyAndroid.growlView/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Info.plist resources/Info.plist
+s327299188.785466
+e327299188.787826
+r1
+xProcessInfoPlistFile
+x/Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Info.plist
+xresources/Info.plist
+lSLF07#2@28"Process resources/Info.plist327299188#327299188#0(0"0(0#0#54"/Users/adriano/workspace/NMAGrowl/resources/Info.plist8644230432#224"    cd /Users/adriano/workspace/NMAGrowl    builtin-infoPlistUtility resources/Info.plist -expandbuildsettings -platform macosx -o /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView/Contents/Info.plist0#
+
+CProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-akegkinctmvtndchjccdlsndqqbg/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+s327299189.054276
+e327299189.135494
+r1
+xProcessPCH
+x/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-akegkinctmvtndchjccdlsndqqbg/NMA_Prefix.pch.gch
+xsource/NMA_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile source/NMA_Prefix.pch327299189#327299189#0(0"0(0#0#55"/Users/adriano/workspace/NMAGrowl/source/NMA_Prefix.pch8648776512#966"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/i386 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -c /Users/adriano/workspace/NMAGrowl/source/NMA_Prefix.pch -o /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-akegkinctmvtndchjccdlsndqqbg/NMA_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-amrmejqexcsgntctlubizhwcjjxx/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
 s325639712.331515
@@ -1025,6 +1610,19 @@ opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x objective-c-header' after last i
 opowerpc-apple-darwin10-gcc-4.2.1: no input files
 lSLF07#2@32"Precompile source/NMA_Prefix.pch325639712#325639712#0(357"powerpc-apple-darwin10-gcc-4.2.1: /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/NMA_Prefix.pch: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x objective-c-header' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1325639712#18446744073709551615#0#0(1@0"0(0#0#84"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/NMA_Prefix.pch8620026336#1197"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/ppc -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/NMA_Prefix.pch -o /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-cobuufaqocofcueptscyctccnkxy/NMA_Prefix.pch.gch1#
 
+CProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-cwrxgewmxzbxrabsaadohjihbbgh/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327299189.052542
+e327299191.509097
+r1
+xProcessPCH
+x/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-cwrxgewmxzbxrabsaadohjihbbgh/NMA_Prefix.pch.gch
+xsource/NMA_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile source/NMA_Prefix.pch327299189#327299191#0(0"0(0#0#55"/Users/adriano/workspace/NMAGrowl/source/NMA_Prefix.pch8649005152#990"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/x86_64 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -c /Users/adriano/workspace/NMAGrowl/source/NMA_Prefix.pch -o /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-cwrxgewmxzbxrabsaadohjihbbgh/NMA_Prefix.pch.gch0#
+
 CProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-dbkpfwsjgwmsnrhikpvwwpfxisrp/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s325639712.332064
 e325639712.336753
@@ -1083,6 +1681,32 @@ opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c-header' after last input file 
 opowerpc-apple-darwin10-gcc-4.2.1: no input files
 lSLF07#2@32"Precompile source/NMA_Prefix.pch325639712#325639712#0(347"powerpc-apple-darwin10-gcc-4.2.1: /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/NMA_Prefix.pch: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c-header' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1325639712#18446744073709551615#0#0(1@0"0(0#0#84"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/NMA_Prefix.pch8619952096#1177"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/ppc -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/NMA_Prefix.pch -o /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-dsooepaitboahzdcvzupzyycplms/NMA_Prefix.pch.gch1#
 
+CProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-eszzbpvxjcrrfdahqmkjjnfssaah/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s327299189.054846
+e327299191.506888
+r1
+xProcessPCH
+x/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-eszzbpvxjcrrfdahqmkjjnfssaah/NMA_Prefix.pch.gch
+xsource/NMA_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile source/NMA_Prefix.pch327299189#327299191#0(0"0(0#0#55"/Users/adriano/workspace/NMAGrowl/source/NMA_Prefix.pch8648627552#994"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/ppc -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -c /Users/adriano/workspace/NMAGrowl/source/NMA_Prefix.pch -o /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-eszzbpvxjcrrfdahqmkjjnfssaah/NMA_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-fjmnvvbnehasbpdmycngqvwercxa/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327299189.053716
+e327299191.607385
+r1
+xProcessPCH
+x/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-fjmnvvbnehasbpdmycngqvwercxa/NMA_Prefix.pch.gch
+xsource/NMA_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile source/NMA_Prefix.pch327299189#327299191#0(0"0(0#0#55"/Users/adriano/workspace/NMAGrowl/source/NMA_Prefix.pch8648845472#986"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/i386 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -c /Users/adriano/workspace/NMAGrowl/source/NMA_Prefix.pch -o /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-fjmnvvbnehasbpdmycngqvwercxa/NMA_Prefix.pch.gch0#
+
 CProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-fyquwxxxhpvaypahlceygdeskogv/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s325639712.330887
 e325639712.334954
@@ -1099,6 +1723,19 @@ oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c-header' after last inpu
 oi686-apple-darwin10-gcc-4.2.1: no input files
 lSLF07#2@32"Precompile source/NMA_Prefix.pch325639712#325639712#0(348"i686-apple-darwin10-gcc-4.2.1: /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/NMA_Prefix.pch: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c-header' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1325639712#18446744073709551615#0#0(1@0"0(0#0#84"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/NMA_Prefix.pch8620235200#1193"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/x86_64 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/NMA_Prefix.pch -o /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-fyquwxxxhpvaypahlceygdeskogv/NMA_Prefix.pch.gch1#
 
+CProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-gvsbcfsbuxolbqbcjgzpiacjnyib/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal ppc c com.apple.compilers.gcc.4_2
+s327299189.055413
+e327299189.117612
+r1
+xProcessPCH
+x/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-gvsbcfsbuxolbqbcjgzpiacjnyib/NMA_Prefix.pch.gch
+xsource/NMA_Prefix.pch
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile source/NMA_Prefix.pch327299189#327299189#0(0"0(0#0#55"/Users/adriano/workspace/NMAGrowl/source/NMA_Prefix.pch8648561152#974"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/ppc -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -c /Users/adriano/workspace/NMAGrowl/source/NMA_Prefix.pch -o /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-gvsbcfsbuxolbqbcjgzpiacjnyib/NMA_Prefix.pch.gch0#
+
 CProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-gzydbynljyvworesvodlnvxbtcqw/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
 s325647684.589262
 e325647684.661353
@@ -1111,6 +1748,19 @@ xx86_64
 xc
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@32"Precompile source/NMA_Prefix.pch325647684#325647684#0(0"0(0#0#84"/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/NMA_Prefix.pch8621321856#1173"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/include -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/x86_64 -I/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/source/NMA_Prefix.pch -o /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-gzydbynljyvworesvodlnvxbtcqw/NMA_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-hgzuszffeosqioabbjhqkunxlkvt/NMA_Prefix.pch.gch source/NMA_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+s327299189.053182
+e327299189.144360
+r1
+xProcessPCH
+x/var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-hgzuszffeosqioabbjhqkunxlkvt/NMA_Prefix.pch.gch
+xsource/NMA_Prefix.pch
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile source/NMA_Prefix.pch327299189#327299189#0(0"0(0#0#55"/Users/adriano/workspace/NMAGrowl/source/NMA_Prefix.pch8648921280#970"    cd /Users/adriano/workspace/NMAGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/NotifyMyAndroid.hmap -F/Users/adriano/workspace/NMAGrowl/build/Debug -I/Users/adriano/workspace/NMAGrowl/build/Debug/include -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources/x86_64 -I/Users/adriano/workspace/NMAGrowl/build/NMA.build/Debug/NotifyMyAndroid.build/DerivedSources -c /Users/adriano/workspace/NMAGrowl/source/NMA_Prefix.pch -o /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NMA_Prefix-hgzuszffeosqioabbjhqkunxlkvt/NMA_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/7O/7OyJMRJlEaaVjzdkHFh4e++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-bbgvpsvmnsilmqcgesquidcobpnk/Sample_Prefix.pch.gch source/Sample_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
 s325576402.072821
@@ -1200,4 +1850,12 @@ r1
 xTouch
 x/Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/NotifyMyAndroid.growlView
 lSLF07#2@106"Touch /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/NotifyMyAndroid.growlView325649756#325649756#0(0"0(0#0#0"8605422016#193"    cd /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4    /usr/bin/touch -c /Users/adriano/Downloads/laclefyoshi-growl-notifo-9bedf31dfec4/build/Debug/NotifyMyAndroid.growlView0#
+
+CTouch /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView
+s327299192.155264
+e327299192.157960
+r1
+xTouch
+x/Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView
+lSLF07#2@77"Touch /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView327299192#327299192#0(0"0(0#0#0"8648170912#135"    cd /Users/adriano/workspace/NMAGrowl    /usr/bin/touch -c /Users/adriano/workspace/NMAGrowl/build/Debug/NotifyMyAndroid.growlView0#
 

@@ -254,7 +254,7 @@
 						<dict>
 							<key>PBXSmartGroupTreeModuleColumnWidthsKey</key>
 							<array>
-								<real>186</real>
+								<real>169</real>
 							</array>
 							<key>PBXSmartGroupTreeModuleColumnsKey_v4</key>
 							<array>
@@ -266,7 +266,6 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
 								<string>089C166AFE841209C02AAC07</string>
-								<string>9324062D1077A400008EEF09</string>
 								<string>93596AC70A84222E001C6860</string>
 								<string>089C167CFE841241C02AAC07</string>
 								<string>9324062E1077A429008EEF09</string>
@@ -280,12 +279,12 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>43</integer>
-									<integer>42</integer>
+									<integer>25</integer>
+									<integer>24</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 51}, {186, 697}}</string>
+							<string>{{0, 0}, {169, 663}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -297,19 +296,19 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {203, 715}}</string>
+						<string>{{0, 0}, {186, 681}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
-							<real>186</real>
+							<real>169</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>222 173 1348 756 0 0 1920 1178 </string>
+						<string>43 56 1237 722 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
 					<key>Proportion</key>
-					<string>203pt</string>
+					<string>186pt</string>
 				</dict>
 				<dict>
 					<key>Dock</key>
@@ -320,7 +319,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>GrowlNMAPrefs.m</string>
+								<string>GrowlNMADisplay.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -328,28 +327,30 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>GrowlNMAPrefs.m</string>
+										<string>GrowlNMADisplay.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>B9C70BF9138ABDA10019E660</string>
+										<string>B9EA36831430399B004550E9</string>
 										<key>history</key>
 										<array>
-											<string>B90995091368DE28006C0311</string>
-											<string>B90995311368DFEF006C0311</string>
-											<string>B90995551368E856006C0311</string>
 											<string>B90995581368E856006C0311</string>
-											<string>B90995F01369057D006C0311</string>
-											<string>B9BF4D4E138226A200E8981A</string>
-											<string>B9BF4D4F138226A200E8981A</string>
 											<string>B9BF4D50138226A200E8981A</string>
 											<string>B9BF4D51138226A200E8981A</string>
 											<string>B9BF4D52138226A200E8981A</string>
-											<string>B9BF4D53138226A200E8981A</string>
-											<string>B9BF4D6E13822BA800E8981A</string>
-											<string>B9BF4D721382303000E8981A</string>
-											<string>B9BF4D731382303000E8981A</string>
-											<string>B9BF4D821382307C00E8981A</string>
+											<string>B926953714303387004BA568</string>
+											<string>B926953814303387004BA568</string>
+											<string>B926953F14303387004BA568</string>
+											<string>B926954014303387004BA568</string>
+											<string>B926954114303387004BA568</string>
+											<string>B926954214303387004BA568</string>
+											<string>B926955C143035D7004BA568</string>
+											<string>B9EA366914303694004550E9</string>
+											<string>B9EA366A14303694004550E9</string>
+											<string>B9EA366B14303694004550E9</string>
+											<string>B9EA366C14303694004550E9</string>
+											<string>B9EA366D14303694004550E9</string>
+											<string>B9EA366E14303694004550E9</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -361,14 +362,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1140, 506}}</string>
+								<string>{{0, 0}, {1046, 470}}</string>
 								<key>RubberWindowFrame</key>
-								<string>222 173 1348 756 0 0 1920 1178 </string>
+								<string>43 56 1237 722 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>506pt</string>
+							<string>470pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -381,18 +382,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 511}, {1140, 204}}</string>
+								<string>{{0, 475}, {1046, 206}}</string>
 								<key>RubberWindowFrame</key>
-								<string>222 173 1348 756 0 0 1920 1178 </string>
+								<string>43 56 1237 722 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>204pt</string>
+							<string>206pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>1140pt</string>
+					<string>1046pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -407,9 +408,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>B9C70BF41384C45B0019E660</string>
+				<string>B9EA367014303694004550E9</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>B9C70BF51384C45B0019E660</string>
+				<string>B9EA367114303694004550E9</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -548,10 +549,10 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>B90994D01367E530006C0311</string>
-		<string>/Users/adriano/workspace/NMAGrowl/NMA.xcodeproj</string>
+		<string>/Users/adriano/workspace/nmagrowl-os/NMA.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>222 173 1348 756 0 0 1920 1178 </string>
+	<string>43 56 1237 722 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -581,7 +582,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1051, 315}}</string>
 								<key>RubberWindowFrame</key>
-								<string>555 435 1051 597 0 0 1920 1178 </string>
+								<string>146 146 1051 597 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -589,6 +590,8 @@
 							<string>315pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -605,7 +608,7 @@
 								<key>Frame</key>
 								<string>{{0, 320}, {1051, 236}}</string>
 								<key>RubberWindowFrame</key>
-								<string>555 435 1051 597 0 0 1920 1178 </string>
+								<string>146 146 1051 597 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXBuildResultsModule</string>
@@ -628,7 +631,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>B90994D01367E530006C0311</string>
-				<string>B9C70BF61384C45B0019E660</string>
+				<string>B9EA367214303694004550E9</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -637,7 +640,7 @@
 			<key>WindowContentMinSize</key>
 			<string>486 300</string>
 			<key>WindowString</key>
-			<string>555 435 1051 597 0 0 1920 1178 </string>
+			<string>146 146 1051 597 0 0 1280 778 </string>
 			<key>WindowToolGUID</key>
 			<string>B90994D01367E530006C0311</string>
 			<key>WindowToolIsVisible</key>

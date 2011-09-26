@@ -4,7 +4,6 @@
 //  Copyright: 2011 Adriano Maia
 
 
-
 #import <Cocoa/Cocoa.h>
 #import <GrowlDisplayPlugin.h>
 

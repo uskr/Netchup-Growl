@@ -95,22 +95,11 @@ NSString* encodeURIString(NSString* s) {
 	//NSLog(@"NMA data: ak: %@, label=%@%@, title: %@, text: %@, prio: %d",
 	//   nma_apikey, nma_label, appname, title, text, prio);
 
-	//NSString *dataStr = (NSMutableString*)[@"" stringByAppendingFormat:@"%@:%@", nma_username, nma_apikey];
-	//NSData *encodeData = [dataStr dataUsingEncoding:NSUTF8StringEncoding];
-	//char encodeArray[512];
-	
-	//memset(encodeArray, '\0', sizeof(encodeArray));
-	
-	// Base64 Encode username and apikey
-	//base64encode([encodeData length], (char *)[encodeData bytes], sizeof(encodeArray), encodeArray);
-	
-	//dataStr = [[[NSString alloc] initWithBytes:encodeArray length:strlen(encodeArray) encoding:NSASCIIStringEncoding] autorelease];
-	//NSString *authenticationString = [@"" stringByAppendingFormat:@"Basic %@", dataStr];
 	// Create and send request
 	NSString *postContent = [NSString stringWithFormat:@"apikey=%@&application=%@%@&event=%@&description=%@&priority=%d",
 									   encodeURIString(nma_apikey), encodeURIString(nma_label), encodeURIString(appname), encodeURIString(title), 
 									   encodeURIString(text), prio];
-	NSURL *url = [NSURL URLWithString:@"https://nma.usk.bz/publicapi/notify"];
+	NSURL *url = [NSURL URLWithString:@"https://www.notifymyandroid.com/publicapi/notify"];
 	NSMutableURLRequest *theRequest = (NSMutableURLRequest*)[[NSMutableURLRequest alloc] initWithURL:url];
 	//[theRequest addValue:authenticationString forHTTPHeaderField: @"Authorization"];
 	[theRequest setHTTPMethod:@"POST"];

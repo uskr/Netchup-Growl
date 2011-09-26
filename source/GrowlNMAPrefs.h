@@ -3,8 +3,6 @@
 //
 //  Copyright: 2011 Adriano Maia
 
-
-
 #import <PreferencePanes/PreferencePanes.h>
 #import "GrowlDefinesInternal.h"	// for NSInteger/NSUInteger
 #import "GrowlPlugin.h"

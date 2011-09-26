@@ -1,5 +1,3 @@
-syntax: glob
- 
 .DS_Store
  
 # Backup files left behind by the Emacs editor.
@@ -26,3 +24,8 @@ build/*
  
 # documentation
 **.docset/*
+
+/build/.DS_Store
+/resources/.DS_Store
+/source/.DS_Store
+/NMA.dmgCanvas

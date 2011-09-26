@@ -3,8 +3,6 @@
 //
 //  Copyright: 2011 Adriano Maia
 
-
-
 #import "GrowlNMADisplay.h"
 #import "GrowlNMAWindowController.h"
 #import "GrowlNMAPrefs.h"

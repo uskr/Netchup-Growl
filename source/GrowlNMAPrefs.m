@@ -3,8 +3,6 @@
 //
 //  Copyright: 2011 Adriano Maia
 
-
-
 #import "GrowlNMAPrefs.h"
 #import "GrowlDefinesInternal.h"
 

@@ -29,3 +29,4 @@ build/*
 /resources/.DS_Store
 /source/.DS_Store
 /NMA.dmgCanvas
+/build

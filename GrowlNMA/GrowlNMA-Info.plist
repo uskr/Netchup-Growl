@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFile</key>
+	<string></string>
+	<key>CFBundleIdentifier</key>
+	<string>ca.igorsales.${PRODUCT_NAME:rfc1034identifier}</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>NMA</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.1.0</string>
+	<key>GrowlPluginAuthor</key>
+	<string>Igor Sales (http://igorsales.ca) &amp; Adriano Maia</string>
+	<key>GrowlPluginDescription</key>
+	<string>An action style for Growl 2.0 and higher that forwards Growl notifications to NotifyMyAndroid</string>
+	<key>GrowlPluginsFrameworkVersion</key>
+	<string>1.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>This work is licensed under a Creative Commons Attribution 3.0 Unported License. Attribution to Igor Sales &amp; Adriano Maia</string>
+	<key>NSPrincipalClass</key>
+	<string>GrowlNMAAction</string>
+</dict>
+</plist>

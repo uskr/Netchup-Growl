@@ -11,6 +11,8 @@
 #import <GrowlPlugins/GrowlActionPlugin.h>
 #import "GrowlNMAPreferencePane.h"
 
+extern NSString * const kGrowlNMAServer;
+
 @interface GrowlNMAAction : GrowlActionPlugin <GrowlDispatchNotificationProtocol>
 
 - (BOOL) sendNMANotificationWithGrowlNotification:(NSDictionary *)notification configuration:(NSDictionary *)configuration;

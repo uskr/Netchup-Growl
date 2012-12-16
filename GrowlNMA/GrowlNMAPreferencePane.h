@@ -17,17 +17,13 @@
 @property (nonatomic, assign, readonly) NSInteger minMinutes;
 @property (nonatomic, assign, readonly) NSInteger maxMinutes;
 
-- (IBAction)testNMASettings:(id)sender;
+@property (nonatomic, copy)             NSString* apiKey;
+@property (nonatomic, assign)           BOOL      onlyIfIdle;
+@property (nonatomic, copy)             NSString* prefixString;
+@property (nonatomic, assign)           NSInteger minimumMinutes;
+@property (nonatomic, assign)           BOOL      onlyIfScreensaverActive;
 
-- (NSString*)apiKey;
-- (void)setApiKey:(NSString*)apiKey;
-- (BOOL)onlyIfIdle;
-- (void)setOnlyIfIdle:(BOOL)onlyIfIdle;
-- (NSString*)prefixString;
-- (void)setPrefixString:(NSString*)prefixString;
-- (int)minimumMinutes;
-- (void)setMinimumMinutes:(int)minimumMinutes;
-- (BOOL)onlyIfScreensaverActive;
-- (void)setOnlyIfScreensaverActive:(BOOL)active;
+- (IBAction)testNMASettings:(id)sender;
+- (IBAction)openWebsite:(id)sender;
 
 @end

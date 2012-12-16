@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <archive type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="8.00">
 	<data>
-		<int key="IBDocument.SystemTarget">1080</int>
+		<int key="IBDocument.SystemTarget">1070</int>
 		<string key="IBDocument.SystemVersion">12C60</string>
 		<string key="IBDocument.InterfaceBuilderVersion">2844</string>
 		<string key="IBDocument.AppKitVersion">1187.34</string>
@@ -63,6 +63,7 @@
 							<string key="NSFrame">{{0, 10}, {75, 18}}</string>
 							<reference key="NSSuperview" ref="1006"/>
 							<reference key="NSWindow"/>
+							<reference key="NSNextKeyView"/>
 							<string key="NSReuseIdentifierKey">_NS:22</string>
 							<bool key="NSEnabled">YES</bool>
 							<object class="NSButtonCell" key="NSCell" id="505018526">
@@ -484,21 +485,21 @@ LnBocA</string>
 									</object>
 									<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
 								</object>
-								<object class="NSButton" id="661473384">
+								<object class="NSButton" id="826087239">
 									<reference key="NSNextResponder" ref="398282851"/>
 									<int key="NSvFlags">304</int>
-									<string key="NSFrame">{{31, 6}, {292, 44}}</string>
+									<string key="NSFrame">{{37, 4}, {292, 44}}</string>
 									<reference key="NSSuperview" ref="398282851"/>
 									<reference key="NSWindow"/>
 									<string key="NSReuseIdentifierKey">_NS:9</string>
 									<bool key="NSEnabled">YES</bool>
-									<object class="NSButtonCell" key="NSCell" id="876520838">
+									<object class="NSButtonCell" key="NSCell" id="99326962">
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">134217728</int>
 										<string key="NSContents"/>
 										<reference key="NSSupport" ref="299806599"/>
 										<string key="NSCellIdentifier">_NS:9</string>
-										<reference key="NSControlView" ref="661473384"/>
+										<reference key="NSControlView" ref="826087239"/>
 										<int key="NSButtonFlags">-2046640128</int>
 										<int key="NSButtonFlags2">134</int>
 										<string key="NSAlternateContents"/>
@@ -568,7 +569,7 @@ LnBocA</string>
 					<object class="IBActionConnection" key="connection">
 						<string key="label">openWebsite:</string>
 						<reference key="source" ref="1001"/>
-						<reference key="destination" ref="661473384"/>
+						<reference key="destination" ref="826087239"/>
 					</object>
 					<int key="connectionID">407</int>
 				</object>
@@ -933,7 +934,7 @@ LnBocA</string>
 							<reference ref="371144008"/>
 							<reference ref="389571297"/>
 							<reference ref="670628740"/>
-							<reference ref="661473384"/>
+							<reference ref="826087239"/>
 						</array>
 						<reference key="parent" ref="1006"/>
 					</object>
@@ -1114,16 +1115,16 @@ LnBocA</string>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">405</int>
-						<reference key="object" ref="661473384"/>
+						<reference key="object" ref="826087239"/>
 						<array class="NSMutableArray" key="children">
-							<reference ref="876520838"/>
+							<reference ref="99326962"/>
 						</array>
 						<reference key="parent" ref="398282851"/>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">406</int>
-						<reference key="object" ref="876520838"/>
-						<reference key="parent" ref="661473384"/>
+						<reference key="object" ref="99326962"/>
+						<reference key="parent" ref="826087239"/>
 					</object>
 				</array>
 			</object>
@@ -1224,7 +1225,7 @@ LnBocA</string>
 		<string key="IBDocument.TargetRuntimeIdentifier">IBCocoaFramework</string>
 		<object class="NSMutableDictionary" key="IBDocument.PluginDeclaredDependencies">
 			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaPlugin.macosx</string>
-			<real value="1080" key="NS.object.0"/>
+			<real value="1070" key="NS.object.0"/>
 		</object>
 		<bool key="IBDocument.PluginDeclaredDependenciesTrackSystemTargetVersion">YES</bool>
 		<int key="IBDocument.defaultPropertyAccessControl">3</int>

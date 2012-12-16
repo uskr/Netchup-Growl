@@ -15,6 +15,16 @@
 
 -(NSString*)mainNibName
 {
+    NSBundle* bundle = [NSBundle bundleForClass:[self class]];
+    NSString* path = [bundle pathForResource:@"GrowlNMAPrefPane" ofType:@"nib"];
+    
+    if (path == nil) {
+        path = [bundle pathForResource:@"GrowlNMAPrefPaneOld" ofType:@"nib"];
+        if (path) {
+            return @"GrowlNMAPrefPaneOld";
+        }
+    }
+
 	return @"GrowlNMAPrefPane";
 }
 
@@ -48,6 +58,11 @@
     [action sendNMANotificationWithGrowlNotification:testNotification configuration:self.configuration];
 }
 
+- (IBAction)openWebsite:(id)sender
+{
+    [[NSWorkspace sharedWorkspace] openURL:[NSURL URLWithString:[NSString stringWithFormat:@"https://%@/growl.php", kGrowlNMAServer]]];
+}
+
 - (NSString*)apiKey
 {
     return [self.configuration valueForKey:@"apiKey"];
@@ -78,14 +93,21 @@
     [self setConfigurationValue:string forKey:@"prefixString"];
 }
 
-- (int)minimumMinutes
+- (NSInteger)minimumMinutes
 {
-    return [[self.configuration valueForKey:@"minimumMinutes"] intValue];
+    NSInteger mins = [[self.configuration valueForKey:@"minimumMinutes"] integerValue];
+    
+    if (mins < self.minMinutes) {
+        mins = self.minMinutes;
+        [self.configuration setValue:[NSNumber numberWithInteger:mins] forKey:@"minimumMinutes"];
+    }
+    
+    return mins;
 }
 
-- (void)setMinimumMinutes:(int)minutes
+- (void)setMinimumMinutes:(NSInteger)minutes
 {
-    [self setConfigurationValue:[NSNumber numberWithInt:minutes] forKey:@"minimumMinutes"];
+    [self setConfigurationValue:[NSNumber numberWithInteger:minutes] forKey:@"minimumMinutes"];
 }
 
 - (BOOL)onlyIfScreensaverActive

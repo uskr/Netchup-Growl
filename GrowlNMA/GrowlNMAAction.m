@@ -14,6 +14,8 @@
 #import "GrowlNMAPreferencePane.h"
 #import "ScreensaverWatcher.h"
 
+const NSString * const kGrowlNMAServer = @"notifymyandroid-dev.appspot.com";
+
 static ScreensaverWatcher* ssWatcher = nil;
 
 @implementation GrowlNMAAction
@@ -76,7 +78,7 @@ static ScreensaverWatcher* ssWatcher = nil;
                              [self encodeURIString:text],
                              prio];
 
-    NSURL *url = [NSURL URLWithString:@"https://notifymyandroid-dev.appspot.com/publicapi/notify"];
+    NSURL *url = [NSURL URLWithString:[NSString stringWithFormat:@"https://%@/publicapi/notify", kGrowlNMAServer]];
 	//NSURL *url = [NSURL URLWithString:@"https://www.notifymyandroid.com/publicapi/notify"];
 
 	NSMutableURLRequest *theRequest = (NSMutableURLRequest*)[[NSMutableURLRequest alloc] initWithURL:url];

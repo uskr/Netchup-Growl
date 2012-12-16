@@ -16,6 +16,7 @@
 		0450C893166595C900074A11 /* Growl.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0450C892166595C900074A11 /* Growl.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		0458563F166B22F100C152D7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0458563D166B22F100C152D7 /* InfoPlist.strings */; };
 		04FA9CC01665F5BB00546F67 /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04FA9CBF1665F5BB00546F67 /* IOKit.framework */; };
+		7813A102167E568C00A8FB35 /* GrowlNMAPrefPaneOld.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7813A101167E568C00A8FB35 /* GrowlNMAPrefPaneOld.xib */; };
 		7861A73C16798A9C00C24D76 /* GrowlPlugins.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7861A73B16798A9C00C24D76 /* GrowlPlugins.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		7861A74A167ADD0800C24D76 /* nma.icns in Resources */ = {isa = PBXBuildFile; fileRef = 7861A749167ADD0800C24D76 /* nma.icns */; };
 		7861A74D167C353D00C24D76 /* ScreensaverWatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 7861A74C167C353D00C24D76 /* ScreensaverWatcher.m */; };
@@ -37,6 +38,7 @@
 		04585644166B24C500C152D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/GrowlNMAPrefPane.xib; sourceTree = "<group>"; };
 		04585646166B24D300C152D7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/GrowlNMAPrefPane.strings; sourceTree = "<group>"; };
 		04FA9CBF1665F5BB00546F67 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
+		7813A101167E568C00A8FB35 /* GrowlNMAPrefPaneOld.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GrowlNMAPrefPaneOld.xib; sourceTree = "<group>"; };
 		7861A73B16798A9C00C24D76 /* GrowlPlugins.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GrowlPlugins.framework; path = "../Growl-2.0-SDK/Plugin Development/GrowlPlugins.framework"; sourceTree = "<group>"; };
 		7861A749167ADD0800C24D76 /* nma.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = nma.icns; sourceTree = "<group>"; };
 		7861A74B167C353D00C24D76 /* ScreensaverWatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScreensaverWatcher.h; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 		0450C87B166595AB00074A11 /* GrowlNMA */ = {
 			isa = PBXGroup;
 			children = (
+				7813A101167E568C00A8FB35 /* GrowlNMAPrefPaneOld.xib */,
 				0450C882166595AB00074A11 /* GrowlNMAPrefPane.xib */,
 				0450C887166595AB00074A11 /* GrowlNMAPreferencePane.h */,
 				0450C888166595AB00074A11 /* GrowlNMAPreferencePane.m */,
@@ -181,6 +184,7 @@
 				0450C884166595AB00074A11 /* GrowlNMAPrefPane.xib in Resources */,
 				0458563F166B22F100C152D7 /* InfoPlist.strings in Resources */,
 				7861A74A167ADD0800C24D76 /* nma.icns in Resources */,
+				7813A102167E568C00A8FB35 /* GrowlNMAPrefPaneOld.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -242,7 +246,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 			};
@@ -264,7 +268,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -272,7 +276,7 @@
 		0450C890166595AB00074A11 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_IDENTITY = "Developer ID Application: Igor Sales";
 				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -292,7 +296,7 @@
 		0450C891166595AB00074A11 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_IDENTITY = "Developer ID Application: Igor Sales";
 				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",

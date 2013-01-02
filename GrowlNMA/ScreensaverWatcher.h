@@ -1,9 +1,12 @@
+/* Copyright (c) 2013 Netchup. All rights reserved.
+ * Authors: Adriano Maia and Igor Sales
+ * Use of this source code is governed by a BSD-style license that can be
+ * found in the LICENSE file.
+ */
+
 //
 //  ScreensaverWatcher.h
 //  GrowlNMA
-//
-//  Created by Igor Sales on 2012-12-14.
-//  Copyright (c) 2012 Igor Sales. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

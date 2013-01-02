@@ -25,11 +25,11 @@
 	<key>GrowlPluginAuthor</key>
 	<string>Igor Sales (http://igorsales.ca) &amp; Adriano Maia</string>
 	<key>GrowlPluginDescription</key>
-	<string>An action style for Growl 2.0 and higher that forwards Growl notifications to NotifyMyAndroid</string>
+	<string>An action style for Growl 2.0 and higher that forwards Growl notifications to Netchup (former NotifyMyAndroid)</string>
 	<key>GrowlPluginsFrameworkVersion</key>
 	<string>1.0</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>This work is licensed under a Creative Commons Attribution 3.0 Unported License. Attribution to Igor Sales &amp; Adriano Maia</string>
+	<string>This work is licensed under a a BSD-style license (see LICENSE file). Attribution to Igor Sales &amp; Adriano Maia.</string>
 	<key>NSPrincipalClass</key>
 	<string>GrowlNMAAction</string>
 </dict>

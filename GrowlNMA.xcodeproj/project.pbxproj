@@ -17,6 +17,7 @@
 		0458563F166B22F100C152D7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0458563D166B22F100C152D7 /* InfoPlist.strings */; };
 		04FA9CC01665F5BB00546F67 /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04FA9CBF1665F5BB00546F67 /* IOKit.framework */; };
 		7813A102167E568C00A8FB35 /* GrowlNMAPrefPaneOld.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7813A101167E568C00A8FB35 /* GrowlNMAPrefPaneOld.xib */; };
+		781A96961694C5690077BA20 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 781A96951694C5690077BA20 /* LICENSE */; };
 		7861A73C16798A9C00C24D76 /* GrowlPlugins.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7861A73B16798A9C00C24D76 /* GrowlPlugins.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		7861A74A167ADD0800C24D76 /* nma.icns in Resources */ = {isa = PBXBuildFile; fileRef = 7861A749167ADD0800C24D76 /* nma.icns */; };
 		7861A74D167C353D00C24D76 /* ScreensaverWatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 7861A74C167C353D00C24D76 /* ScreensaverWatcher.m */; };
@@ -39,6 +40,7 @@
 		04585646166B24D300C152D7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/GrowlNMAPrefPane.strings; sourceTree = "<group>"; };
 		04FA9CBF1665F5BB00546F67 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
 		7813A101167E568C00A8FB35 /* GrowlNMAPrefPaneOld.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GrowlNMAPrefPaneOld.xib; sourceTree = "<group>"; };
+		781A96951694C5690077BA20 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		7861A73B16798A9C00C24D76 /* GrowlPlugins.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GrowlPlugins.framework; path = "../Growl-2.0-SDK/Plugin Development/GrowlPlugins.framework"; sourceTree = "<group>"; };
 		7861A749167ADD0800C24D76 /* nma.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = nma.icns; sourceTree = "<group>"; };
 		7861A74B167C353D00C24D76 /* ScreensaverWatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScreensaverWatcher.h; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 		0450C867166595AB00074A11 = {
 			isa = PBXGroup;
 			children = (
+				781A96951694C5690077BA20 /* LICENSE */,
 				0450C87B166595AB00074A11 /* GrowlNMA */,
 				0450C874166595AB00074A11 /* Frameworks */,
 				0450C873166595AB00074A11 /* Products */,
@@ -185,6 +188,7 @@
 				0458563F166B22F100C152D7 /* InfoPlist.strings in Resources */,
 				7861A74A167ADD0800C24D76 /* nma.icns in Resources */,
 				7813A102167E568C00A8FB35 /* GrowlNMAPrefPaneOld.xib in Resources */,
+				781A96961694C5690077BA20 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

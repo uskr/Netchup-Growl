@@ -1,12 +1,15 @@
+/* Copyright (c) 2013 Netchup. All rights reserved.
+ * Authors: Adriano Maia and Igor Sales
+ * Use of this source code is governed by a BSD-style license that can be
+ * found in the LICENSE file.
+ */
+
 //
 //  GrowlNMAPreferencePane.h
 //
 //  Growl-NMA
-//  An action style for Growl 2.0 and higher that forwards messages to the NotifyMyAndroid notification service.
+//  An action style for Growl 2.0 and higher that forwards messages to the Netchup notification service.
 //
-//  Created by Igor Sales on 28/11/12.
-//  This work is licensed under a Creative Commons Attribution 3.0 Unported License.
-//  http://creativecommons.org/licenses/by/3.0/deed.en_US
 
 
 #import <GrowlPlugins/GrowlPluginPreferencePane.h>

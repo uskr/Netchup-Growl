@@ -75,7 +75,7 @@ static ScreensaverWatcher* ssWatcher = nil;
         appname = [prefix stringByAppendingString:appname];
     }
 
-    NSString *postContent = [NSString stringWithFormat:@"apikey=%@&application=%@&event=%@&description=%@&priority=%d",
+    NSString *postContent = [NSString stringWithFormat:@"p=1&apikey=%@&application=%@&event=%@&description=%@&priority=%d",
                              [self encodeURIString:apiKey],
                              [self encodeURIString:appname],
                              [self encodeURIString:event],

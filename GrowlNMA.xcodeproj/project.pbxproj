@@ -21,6 +21,7 @@
 		7861A73C16798A9C00C24D76 /* GrowlPlugins.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7861A73B16798A9C00C24D76 /* GrowlPlugins.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		7861A74A167ADD0800C24D76 /* nma.icns in Resources */ = {isa = PBXBuildFile; fileRef = 7861A749167ADD0800C24D76 /* nma.icns */; };
 		7861A74D167C353D00C24D76 /* ScreensaverWatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 7861A74C167C353D00C24D76 /* ScreensaverWatcher.m */; };
+		787036F116DCF35B00021541 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 787036F316DCF35B00021541 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,7 +38,6 @@
 		0450C892166595C900074A11 /* Growl.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Growl.framework; path = "../Growl-2.0-SDK/Framework/Growl.framework"; sourceTree = "<group>"; };
 		0458563E166B22F100C152D7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		04585644166B24C500C152D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/GrowlNMAPrefPane.xib; sourceTree = "<group>"; };
-		04585646166B24D300C152D7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/GrowlNMAPrefPane.strings; sourceTree = "<group>"; };
 		04FA9CBF1665F5BB00546F67 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
 		7813A101167E568C00A8FB35 /* GrowlNMAPrefPaneOld.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GrowlNMAPrefPaneOld.xib; sourceTree = "<group>"; };
 		781A96951694C5690077BA20 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
@@ -45,6 +45,8 @@
 		7861A749167ADD0800C24D76 /* nma.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = nma.icns; sourceTree = "<group>"; };
 		7861A74B167C353D00C24D76 /* ScreensaverWatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScreensaverWatcher.h; sourceTree = "<group>"; };
 		7861A74C167C353D00C24D76 /* ScreensaverWatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScreensaverWatcher.m; sourceTree = "<group>"; };
+		787036EE16DCEBF800021541 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/GrowlNMAPrefPane.strings; sourceTree = "<group>"; };
+		787036F216DCF35B00021541 /* en */ = {isa = PBXFileReference; lastKnownFileType = file; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 			isa = PBXGroup;
 			children = (
 				7861A749167ADD0800C24D76 /* nma.icns */,
+				787036F316DCF35B00021541 /* Localizable.strings */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 				7861A74A167ADD0800C24D76 /* nma.icns in Resources */,
 				7813A102167E568C00A8FB35 /* GrowlNMAPrefPaneOld.xib in Resources */,
 				781A96961694C5690077BA20 /* LICENSE in Resources */,
+				787036F116DCF35B00021541 /* Localizable.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,7 +216,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				04585644166B24C500C152D7 /* Base */,
-				04585646166B24D300C152D7 /* en */,
+				787036EE16DCEBF800021541 /* en */,
 			);
 			name = GrowlNMAPrefPane.xib;
 			sourceTree = "<group>";
@@ -223,6 +227,14 @@
 				0458563E166B22F100C152D7 /* en */,
 			);
 			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		787036F316DCF35B00021541 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				787036F216DCF35B00021541 /* en */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

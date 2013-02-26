@@ -1,62 +1,30 @@
-/* Title for section of preferences holding notification settings */
-"35.title" = "Notification Settings";
 
-/* Very Low notification priority */
-"107.title" = "Very Low";
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Window";
 
-/* Moderate notification priority */
-"108.title" = "Moderate";
-
-/* Normal notification priority */
-"109.title" = "Normal";
-
-/* High notification priority */
-"122.title" = "High";
-
-/* Emergency notification priority */
-"123.title" = "Emergency";
-
-/* Tooltip describing idle Mac option */
-"136.ibShadowedToolTip" = "Only forward a notification when this Mac has been idle for 5 minutes or more.";
-
-/* Only when this Mac is idle */
-"137.title" = "Only when this Mac is idle";
-
-/* Optional Notification Prefix */
-"170.placeholderString" = "Optional Prefix";
-
-/* Title for section of preferences holding advanced settings */
-"197.title" = "Advanced Settings";
-
-/* Label for user to specify a custom application key */
-"200.title" = "Custom App Key:";
-
-/* Tooltip describing minimum priority option */
-"222.ibShadowedToolTip" = "Forward notifications only when the Growl priority is at least a specified value.";
-
-/* Label for user to select a minimum priority from a list: */
-"223.title" = "Only when priority is at least:";
-
-/* Tooltip describing prefixed text option */
-"226.ibShadowedToolTip" = "Prefix forwarded notification titles with the provided text.";
-
-/* Prefix notification with provided text */
-"227.title" = "Prefix notification with:";
-
-/* Optional Notification Prefix */
-"254.ibShadowedIsNilPlaceholder" = "Optional Prefix";
-
-/* Placeholder for Optional Device name */
-"270.placeholderString" = "Optional Device";
-
-/* Placeholder for Optional Device name */
-"275.ibShadowedIsNilPlaceholder" = "Optional Device";
-
-/* Text for Test Settings button */
+/* Class = "NSButtonCell"; title = "Test Settings"; ObjectID = "281"; */
 "281.title" = "Test Settings";
 
-/* Tooltip describing custom sound option */
-"296.ibShadowedToolTip" = "Define a custom notification sound from the provided list.";
+/* Class = "NSTextFieldCell"; title = "Version 1.0.1"; ObjectID = "346"; */
+"346.title" = "Version 1.0.1";
 
-/* Label for user to specify a custom notification sound: */
-"297.title" = "Use custom notification sound:";
+/* Class = "NSTextFieldCell"; title = "API Key :"; ObjectID = "350"; */
+"350.title" = "API Key :";
+
+/* Class = "NSTextFieldCell"; title = "Application prefix:"; ObjectID = "352"; */
+"352.title" = "Application prefix:";
+
+/* Class = "NSButtonCell"; title = "Send notification only when Mac is idle for at least:"; ObjectID = "359"; */
+"359.title" = "Send notification only when Mac is idle for at least:";
+
+/* Class = "NSButtonCell"; title = "Only send to NMA when the screensaver is active."; ObjectID = "360"; */
+"360.title" = "Only send to NMA when the screensaver is active.";
+
+/* Class = "NSTextFieldCell"; title = "minutes"; ObjectID = "362"; */
+"362.title" = "minutes";
+
+/* Class = "NSTextFieldCell"; title = "For help, please visit:\nhttp://www.notifymyandroid.com/growl.php"; ObjectID = "364"; */
+"364.title" = "For help, please visit:\nhttp://www.notifymyandroid.com/growl.php";
+
+/* Class = "IBBindingConnection"; ibShadowedDisplayPattern = "%{value1}@"; ObjectID = "394"; */
+"394.ibShadowedDisplayPattern" = "%{value1}@";

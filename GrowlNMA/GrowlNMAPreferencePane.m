@@ -58,7 +58,11 @@
     [self.mainView.window makeFirstResponder:sender];
     GrowlNMAAction *action = [[GrowlNMAAction alloc] init];
     action.preferencePane = self;
-    NSDictionary* testNotification = [NSDictionary dictionaryWithObjectsAndKeys: @"Test Notification", @"NotificationTitle", @"This is a test notification.", @"NotificationDescription", nil];
+    NSDictionary* testNotification = [NSDictionary dictionaryWithObjectsAndKeys:
+                                      NSLocalizedString(@"Notification.Test.Title", @"Test Notification"), @"NotificationTitle",
+                                      NSLocalizedString(@"Notification.Test.Description", @"This is a test notification."), @"NotificationDescription",
+                                      nil];
+
     [action sendNMANotificationWithGrowlNotification:testNotification configuration:self.configuration];
 }
 

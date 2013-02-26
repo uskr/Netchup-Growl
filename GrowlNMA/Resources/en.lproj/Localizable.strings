@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  GrowlNMA
+
+  Created by Igor Sales on 2013-02-26.
+  Copyright (c) 2013 Netchup. All rights reserved.
+*/
+
+"Notification.Test.Title" = "Test Notification";
+
+"Notification.Test.Description" = "This is a test notification.";
